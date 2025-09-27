@@ -36,11 +36,11 @@
 <h3 align="left">LeetCode Badges:</h3>
 <p align="left">
   <a href="https://leetcode.com/u/bandipreethamreddy16/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/dcc-2024-50.png" alt="LeetCode 50 Days Badge 2024" height="40" />
+    <img src=""C:\Users\bandi\Downloads\download (5).png"" alt="LeetCode 50 Days Badge 2024" height="40" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/bandipreethamreddy16/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/dcc-2023-50.png" alt="LeetCode 50 Days Badge 2023" height="40" />
+    <img src=""C:\Users\bandi\Downloads\download (5).png"" alt="LeetCode 50 Days Badge 2023" height="40" />
   </a>
 </p>
 
