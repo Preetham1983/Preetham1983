@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/preetham-reddy-bandi-4874a5267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/preetham-reddy-bandi-4874a5267/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucz8wiiaq6-6aq8tqh39xn0g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucz8wiiaq6-6aq8tqh39xn0g" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/preetham-reddy-bandi-4874a5267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preetham-reddy-bandi-4874a5267" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucz8wiiaq6-6aq8tqh39xn0g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucz8wiiaq6-6aq8tqh39xn0g" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/bandipreethamreddy16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bandipreethamreddy16/" height="30" width="40" /></a>
 </p>
 
