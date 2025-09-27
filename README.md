@@ -36,7 +36,7 @@
 <h3 align="left">LeetCode Badges:</h3>
 <p align="left">
   <a href="https://leetcode.com/u/bandipreethamreddy16/" target="_blank">
-    <img src=""C:\Users\bandi\Downloads\download (5).png"" alt="LeetCode 50 Days Badge 2024" height="40" />
+    <img src="https://leetcode.com/medal/?showImg=0&id=7547157&isLevel=false" alt="LeetCode 50 Days Badge 2024" height="40" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/bandipreethamreddy16/" target="_blank">
