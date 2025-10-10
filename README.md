@@ -12,7 +12,7 @@
 </p>
 
 - 🔭 I’m currently working on **n8n youtube video automation**  
-- 🌱 I’m currently learning **n8n, Spring Boot**  
+- 🌱 I’m currently learning **n8n, DEVOPS Culture**  
 - 💬 Ask me about **React, Java, SQL, MERN**  
 - 📫 How to reach me **bandipreethamreddy16@gmail.com**  
 
