@@ -33,16 +33,38 @@
 
 ---
 
-<h3 align="left">LeetCode Badges:</h3>
+<h3 align="left">🏅 LeetCode Badges:</h3>
+
 <p align="left">
   <a href="https://leetcode.com/u/bandipreethamreddy16/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="LeetCode 50 Days Badge 2023" height="40" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" 
+         alt="LeetCode 50 Days Badge 2023" 
+         height="80" 
+         style="margin-right: 20px; border-radius: 10px;" />
   </a>
-  &nbsp;
+
   <a href="https://leetcode.com/u/bandipreethamreddy16/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="LeetCode 50 Days Badge 2024" height="40" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" 
+         alt="LeetCode 50 Days Badge 2024" 
+         height="80" 
+         style="margin-right: 20px; border-radius: 10px;" />
+  </a>
+
+  <a href="https://leetcode.com/u/bandipreethamreddy16/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" 
+         alt="LeetCode 50 Days Badge 2025" 
+         height="80" 
+         style="margin-right: 20px; border-radius: 10px;" />
+  </a>
+
+  <a href="https://leetcode.com/u/bandipreethamreddy16/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" 
+         alt="LeetCode 100 Days Badge 2025" 
+         height="80" 
+         style="margin-right: 20px; border-radius: 10px;" />
   </a>
 </p>
+
 
 
 ---
