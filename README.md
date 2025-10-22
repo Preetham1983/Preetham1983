@@ -23,12 +23,10 @@
   <a href="https://linkedin.com/in/preetham-reddy-bandi-4874a5267" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preetham-reddy-bandi-4874a5267" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/ucz8wiiaq6-6aq8tqh39xn0g" target="blank">
+  <a href="https://www.youtube.com/channel/UCZ8WIiAq6-6AQ8tQH39Xn0g" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucz8wiiaq6-6aq8tqh39xn0g" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/bandipreethamreddy16/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bandipreethamreddy16 LeetCode Profile" height="30" width="40" />
-  </a>
+ 
 </p>
 
 ---
