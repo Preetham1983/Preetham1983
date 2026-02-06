@@ -11,9 +11,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **n8n youtube video automation**  
-- 🌱 I’m currently learning **n8n, DEVOPS Culture**  
-- 💬 Ask me about **React, Java, SQL, MERN**  
+- 🔭 I’m currently working on **Python Core Development**  
+- 🌱 I’m currently learning **Azure basics , Microsoft Agent Framework, DEVOPS Culture**  
+- 💬 Ask me about **Java, SQL, MERN , Python**  
 - 📫 How to reach me **bandipreethamreddy16@gmail.com**  
 
 ---
